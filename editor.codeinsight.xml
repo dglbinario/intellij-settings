@@ -1,6 +1,0 @@
-<application>
-  <component name="CodeInsightSettings">
-    <EXCLUDED_PACKAGE NAME="org.junit.Assert.assertEquals" />
-    <EXCLUDED_PACKAGE NAME="org.junit.Assert.fail" />
-  </component>
-</application>
