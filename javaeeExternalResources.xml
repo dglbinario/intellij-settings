@@ -4,14 +4,14 @@
     <resource url="http://java.sun.com/xml/ns/j2ee/application_1_4.xsd" location="$USER_HOME$/.IdeaIC14/system/extResources/49fb84d3_application_1_4.xsd" />
     <resource url="http://java.sun.com/xml/ns/javaee" location="$USER_HOME$/.IdeaIC14/system/extResources/beee9943_web-app_3_0.xsd" />
     <resource url="http://java.sun.com/xml/ns/javaee/ejb-jar_3_0.xsd" location="$USER_HOME$/.IdeaIC14/system/extResources/eb1b96c6_ejb-jar_3_0.xsd" />
-    <resource url="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" location="$USER_HOME$/.IdeaIC14/system/extResources/8a4ed387_web-app_2_5.xsd" />
+    <resource url="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/8a4ed387_web-app_2_5.xsd" />
     <resource url="http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" location="$USER_HOME$/.IdeaIC14/system/extResources/beee9943_web-app_3_0.xsd" />
     <resource url="http://schemas.xmlsoap.org/soap/encoding/" location="$USER_HOME$/.IdeaIC15/system/extResources/cad5bd9d_.xml" />
     <resource url="http://schemas.xmlsoap.org/wsdl/" location="$USER_HOME$/.IdeaIC15/system/extResources/42abd8c6_.xml" />
     <resource url="http://schemas.xmlsoap.org/wsdl/soap/" location="$USER_HOME$/.IdeaIC15/system/extResources/9f6330fe_.xml" />
     <resource url="http://www.eclipse.org/jetty/configure.dtd" location="$USER_HOME$/.IdeaIC14/system/extResources/e9fa6b60_configure.dtd" />
     <resource url="http://www.ibm.com/webservices/xsd/j2ee_web_services_client_1_1.xsd" location="$USER_HOME$/.IdeaIC14/system/extResources/a3d13bdd_j2ee_web_services_client_1_1.xsd" />
-    <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/.IdeaIC14/system/extResources/9b192256_xml.xsd" />
+    <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/9b192256_xml.xsd" />
     <resource url="http://xmlns.jcp.org/xml/ns/javaee/beans_1_1.xsd" location="$USER_HOME$/.IdeaIC14/system/extResources/2fa42ea1_beans_1_1.xsd" />
     <resource url="http://xmlns.oracle.com/weblogic/weblogic-javaee/1.4/weblogic-javaee.xsd" location="$USER_HOME$/.IdeaIC14/system/extResources/11244ed3_weblogic-javaee.xsd" />
     <resource url="http://xmlns.oracle.com/weblogic/weblogic-web-app/1.4/weblogic-web-app.xsd" location="$USER_HOME$/.IdeaIC14/system/extResources/d06c7457_weblogic-web-app.xsd" />
